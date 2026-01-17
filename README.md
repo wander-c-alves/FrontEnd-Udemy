@@ -17,5 +17,7 @@ Neste repositório, organizei os projetos por nível de complexidade:
 ## 📈 Evolução
 Atualmente estou aprofundando meus conhecimentos em **JavaScript** para adicionar interatividade aos projetos listados aqui.
 
+
+
 ---
 *Este repositório faz parte da minha transição de carreira para a área de tecnologia.*
