@@ -23,7 +23,6 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript** para adiciona
 
 *Este repositório faz parte da minha transição de carreira para a área de tecnologia.*
 
-atualizado
 
 
 
